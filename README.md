@@ -20,7 +20,7 @@
 </br>
 
 <img width="300" alt="SS_1" src="https://github.com/mustafa3103/food_delivery_app/assets/69772835/159a3642-e934-4b94-80b8-f5081846cbf8">
-<p>Welcome screen of Food Delivery Application which is user can log in or can go sign up page</p>
+<p>Sign up page of the application</p>
 
 </br>
 </br>
@@ -86,6 +86,7 @@
 <ul>
     <li>Paypal payment method will be added</li>
     <li>Map feature will be added</li>
+    <li>More sign up methods will be added</li>
 </ul>
 
 

@@ -82,7 +82,7 @@
 ## More features will come
 
 <ul>
-    <li>Paypal payment method</li>
+    <li>Paypal payment method will be added</li>
     <li>Map feature will be added</li>
 </ul>
 
